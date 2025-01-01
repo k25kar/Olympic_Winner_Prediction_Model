@@ -1,5 +1,5 @@
 # Olympic Medals Predictor
-Project Overview
+# Project Overview
 This project is a basic machine learning model built using Python and Pandas to analyze Olympic medals data and predict outcomes based on historical trends. It demonstrates data preprocessing, exploration, and model implementation within a Jupyter Notebook environment.
 
 Features
