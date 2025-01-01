@@ -3,8 +3,8 @@
 This project is a basic machine learning model built using Python and Pandas to analyze Olympic medals data and predict outcomes based on historical trends. It demonstrates data preprocessing, exploration, and model implementation within a Jupyter Notebook environment.
 
 # Features
-Data Loading and Preprocessing: Reads and cleans Olympic medal datasets, handling missing values and formatting inconsistencies.
-Exploratory Data Analysis (EDA): Analyzes trends in medal counts by country, sport, and year.
+**Data Loading and Preprocessing:** Reads and cleans Olympic medal datasets, handling missing values and formatting inconsistencies.
+**Exploratory Data Analysis (EDA):** Analyzes trends in medal counts by country, sport, and year.
 Feature Engineering: Extracts meaningful features from the dataset for use in the ML model.
 Model Implementation: Utilizes a simple machine learning algorithm to predict medal counts or other outcomes.
 Visualization: Employs libraries like Matplotlib and Seaborn for graphical representation of trends and model performance.
