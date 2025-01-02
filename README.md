@@ -8,7 +8,8 @@ This project is a basic machine learning model built using Python and Pandas to 
 **Feature Engineering:** Extracts meaningful features from the dataset for use in the ML model.<br>
 **Model Implementation:** Utilizes a simple machine learning algorithm to predict medal counts or other outcomes.<br>
 **Visualization:** Employs Seaborn library for graphical representation of trends and model performance.<br>
-Requirements
+
+# Requirements
 To run this project, ensure you have the following installed:
 
 Python 3.x
