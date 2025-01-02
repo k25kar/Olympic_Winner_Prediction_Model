@@ -16,9 +16,9 @@ To run this project, ensure you have the following installed:
 Jupyter Notebook<br>
 Pandas<br>
 NumPy<br>
-Matplotlib
-Seaborn
-Scikit-learn**
+Matplotlib<br>
+Seaborn<br>
+Scikit-learn**<br>
 You can install the dependencies using:
 
 bash
