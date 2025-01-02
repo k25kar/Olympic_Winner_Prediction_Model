@@ -12,13 +12,13 @@ This project is a basic machine learning model built using Python and Pandas to 
 # Requirements
 To run this project, ensure you have the following installed:
 
-Python 3.x
+**Python 3.x<br>
 Jupyter Notebook
 Pandas
 NumPy
 Matplotlib
 Seaborn
-Scikit-learn
+Scikit-learn**
 You can install the dependencies using:
 
 bash
