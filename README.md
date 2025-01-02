@@ -13,9 +13,9 @@ This project is a basic machine learning model built using Python and Pandas to 
 To run this project, ensure you have the following installed:
 
 **Python 3.x<br>
-Jupyter Notebook
-Pandas
-NumPy
+Jupyter Notebook<br>
+Pandas<br>
+NumPy<br>
 Matplotlib
 Seaborn
 Scikit-learn**
