@@ -19,6 +19,7 @@ NumPy<br>
 Matplotlib<br>
 Seaborn<br>
 Scikit-learn**<br>
+
 You can install the dependencies using:
 
 bash
