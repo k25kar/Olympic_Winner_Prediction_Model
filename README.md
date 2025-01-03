@@ -63,7 +63,7 @@ Classify countries as top medal contenders based on selected features.
 Medal trends over the years for top-performing countries.
 Distribution of medals across sports.
 Predicted vs actual medal counts.
-Limitations
+# Limitations
 The model's accuracy depends on the quality and completeness of the dataset.
 It does not account for external factors like geopolitical influences or changes in competition rules.
 Future Improvements
