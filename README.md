@@ -20,7 +20,7 @@ Matplotlib<br>
 Seaborn<br>
 Scikit-learn**<br>
 
-You can install the dependencies using:
+You can install the dependencies using:<br>
 
 bash
 Copy code
@@ -54,12 +54,12 @@ Event
 Medal
 Ensure the dataset is placed in the same directory as the notebook or update the file path in the code.
 
-Model Details
-The notebook uses a basic regression/classification algorithm from Scikit-learn, such as Linear Regression or Decision Tree, depending on the objective. The model aims to:
+# Model Details
+The notebook uses a Linear Regression algorithm from Scikit-learn. The model aims to:
 
 Predict the number of medals a country may win based on historical data.
 Classify countries as top medal contenders based on selected features.
-Visualizations
+# Visualizations
 Medal trends over the years for top-performing countries.
 Distribution of medals across sports.
 Predicted vs actual medal counts.
