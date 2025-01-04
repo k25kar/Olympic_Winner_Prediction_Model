@@ -66,12 +66,3 @@ Predicted vs actual medal counts.
 # Limitations
 The model's accuracy depends on the quality and completeness of the dataset.
 It does not account for external factors like geopolitical influences or changes in competition rules.
-Future Improvements
-Incorporate additional features like GDP, population, and previous performance trends.
-Explore more advanced models, such as Random Forest or Neural Networks, for better predictions.
-Develop an interactive dashboard for real-time predictions and analysis.
-License
-This project is open-source and licensed under the MIT License.
-
-Contact
-For questions or contributions, feel free to reach out to [Your Name/Email].
