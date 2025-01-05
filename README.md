@@ -9,7 +9,7 @@ This project is a basic machine learning model built using Python and Pandas to 
 **Model Implementation:** Utilizes a simple machine learning algorithm to predict medal counts or other outcomes.<br>
 **Visualization:** Employs Seaborn library for graphical representation of trends and model performance.<br>
 
-# Requirement
+# Requirements
 To run this project, ensure you have the following installed:
 
 **Python 3.x<br>
