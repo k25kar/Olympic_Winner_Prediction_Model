@@ -14,7 +14,7 @@ To run this project, ensure you have the following installed:
 
 **Python 3.x<br>
 Jupyter Notebook<br>
-Pandas<br>
+Pandas<br
 NumPy<br>
 Matplotlib<br>
 Seaborn<br>
