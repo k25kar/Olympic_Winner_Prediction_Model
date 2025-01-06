@@ -21,7 +21,6 @@ Seaborn<br>
 Scikit-learn**<br>
 
 You can install the dependencies using:<br>
-
 bash
 Copy code
 pip install pandas numpy matplotlib seaborn scikit-learn
