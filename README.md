@@ -10,7 +10,7 @@ This project is a basic machine learning model built using Python and Pandas to 
 **Visualization:** Employs Seaborn library for graphical representation of trends and model performance.<br>
 
 # Requirements
-To run this project, ensure you have the following installed:
+To run this project, ensure you have the following installed
 
 **Python 3.x<br>
 Jupyter Notebook<br>
